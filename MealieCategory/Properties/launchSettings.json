@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MealieCategory": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
